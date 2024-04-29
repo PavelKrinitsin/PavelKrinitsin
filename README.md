@@ -14,11 +14,7 @@ Data Scientist
 <a href="https://www.github.com/PavelKrinitsin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/PavelKrinitsin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ###
-<div align="center">
-   <a href="https://t.me/PKrinitsin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
+
 
  
 <h3 align="left">👩‍💻  Обо мне</h3>
