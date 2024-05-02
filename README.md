@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-Я учусь программировать с 2021 года, после того как задумался о смене профессии с инженера по ремонту промышленного оборудования на аналитика данных. По долгу службы приходилось заниматься анализом ходимости оборудования, исследовать причины отказов, разрабатывать корректирующие мероприятия. В какой то момент я понял, что аналитика - это именно та деятельность, которой я бы хотел посвятить все свое рабочее время.
+I have been learning programming since 2021, after I began considering a career change from an industrial equipment repair engineer to a data analyst. As part of my job, I had to analyze the performance of equipment, investigate the causes of failures, and develop corrective measures. At some point, I realized that data analytics is exactly the type of work that I would like to dedicate all my working time to.
 
 * 🌍  I'm based in Bratsk
 * ✉️  You can contact me at [alfa\_reklama@mail.ru](mailto:alfa_reklama@mail.ru)
@@ -17,11 +17,11 @@ src="https://img.shields.io/github/followers/PavelKrinitsin?logo=github&style=fo
 
 
  
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻  About me</h3>
 
 ###
 
-<p align="left">- 🔭 Завершил курсы по Data Science от Нетологии.<br>- ⚡ Занимаюсь разработкой алгоритмов ML для промышленного оборудования </p>
+<p align="left">- 🔭 I have completed Data Science courses from Netology.<br>- ⚡ I am working on developing ML algorithms for industrial equipment </p>
 
 
 ### Skills
