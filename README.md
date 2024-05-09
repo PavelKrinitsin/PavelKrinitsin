@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/PavelKrinitsin?logo=github&style=fo
 
 ###
 
-<p align="left">- 🔭 I have completed Data Science courses from Netology.<br>- ⚡ I am working on developing ML algorithms for industrial equipment. <br>- 📚 I study machine learning and publish scientific articles on its application </p>
+<p align="left">- 🔭 I have completed Data Science courses from Netology.<br>- ⚡ I am working on developing ML algorithms for industrial equipment. <br>- 📚 I study machine learning and publish scientific articles on its application as part of my graduate studies </p>
 
 
 ### Skills
